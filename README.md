@@ -13,7 +13,7 @@
                Me chamo <b> Paola Nishimura </b>;
                </p>
                <p align="left">
-  Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End <br />
+  Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End. <br />
 
   <hr />
   
@@ -51,6 +51,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-plain.svg" alt="C#" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" alt="C#" width="40" height="40" />
 
 </p>
