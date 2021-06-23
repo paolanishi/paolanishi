@@ -29,7 +29,7 @@
   - Tocar alguns instrumentos;
   - Jogar nas horas vagas.
 - 💬 Se quiser me chamar para tirar dúvidas, ficarei feliz em ajudar! Segue as redes abaixo:
-- 📞 Discord: #umajapa#8389
+- 📞 Discord: umajapa#8389
 - 📫 E-mail: pm.nishimura@gmail.com
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolanishi&layout=compact&theme=graywhite&title_color=268bd2" alt="Paola-Nishimura" />
