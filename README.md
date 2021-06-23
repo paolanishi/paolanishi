@@ -12,12 +12,12 @@
 <p align= left">
                Me chamo <b> Paola Nishimura </b>;
                </p>
-               <p align="left>
-  <b>Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End </b>
+               <p align="left">
+  Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End <br />
 
   <hr />
   
-  **Meus interesses pessoais:**
+  **Meus interesses pessoais: **
  
  <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624463626858.png" width="400px" />
  
