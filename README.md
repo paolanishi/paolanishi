@@ -21,7 +21,7 @@
   
  <img align="right" alt= "GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1624463626858.png" width= "400px" />
  
-- 👩‍💻 Estudando JavaScript,CSS3 e HTML5, juntamente com ReactJs, Node.js e TypeScript;
+- 👩‍💻 Estudando JavaScript, CSS3 e HTML5, juntamente com ReactJs, Node.js e TypeScript;
 - Conhecimento em Banco de Dados, C e C#;
 - 💼 Amo tudo que envolva tecnologia , por conta disso estou sempre buscando aprender;
 - 👾 Meus hobbies são: 
