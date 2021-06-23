@@ -13,6 +13,7 @@
                Me chamo <b> Paola Nishimura </b>;
                </p>
                <p align="left">
+   Cursando Análise e Desenvolvimento de Sistemas; <br />
   Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End. <br />
 
   <hr />
