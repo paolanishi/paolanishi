@@ -13,7 +13,7 @@
                Me chamo <b> Paola Nishimura </b>;
                </p>
                <p align="left>
-  Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End </b>
+  <b>Atualmente estou estudando para me tornar uma <b> Desenvolvedora Front-End </b>
 
   <hr />
   
